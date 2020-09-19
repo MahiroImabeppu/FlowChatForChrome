@@ -9,9 +9,12 @@ FlowChatForChromeのフォルダを直接Chromeの
 サンプルのソースでは"Google meet"のみで動作するようになっています．
 適宜サンプルを変更して用いて下さい．
 
-#注意
+# 注意
 本サンプルではFirebaseのRealtimeDatabaseを用いてチャット機能を実現しています．
 そのため，RealtimeDatabaseを用いるためのAPIkeyは今回，使用者様自身が取得したものを想定しています．
 したがって，実際用いる場合にはご自身でFirebaseのプロジェクトを作成し，サンプルの該当部分を変更してください．
 
 [Firebase](https://firebase.google.com/)
+
+# 参考
+追記途中...
