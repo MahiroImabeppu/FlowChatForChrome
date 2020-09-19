@@ -1,2 +1,4 @@
 # FlowChatForChrome
 comment system for chrome extensions
+ニコニコ動画や"コメントスクリーン"といったサービスのようなチャットが画面上に流れてくるようなchrome拡張機能です．
+チャット機能の実装はFirebaseのRealtimeDatabaseで実現しました．
