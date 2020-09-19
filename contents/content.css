@@ -1,0 +1,26 @@
+
+.marquee {
+  position: relative;
+  width: auto;
+  min-height: 50px;
+  height: 100px;
+}
+  .marquee p {
+    position: absolute;
+    color: chocolate;
+    font-size: 100px;
+    margin:0; 
+    padding-left:1000px; 
+    display:inline-block; 
+    white-space:nowrap;
+    animation-name:marquee; 
+    animation-timing-function:linear;
+    animation-duration:10s; 
+    animation-iteration-count:1;
+    animation-fill-mode:forwards;
+    z-index: 999;
+    }
+    @keyframes marquee {
+      from   { transform: translate(50%);} 
+      99%,to { transform: translate(-120%);}
+    }
