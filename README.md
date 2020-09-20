@@ -16,4 +16,16 @@ FlowChatForChromeのフォルダを直接Chromeの
 [Firebase](https://firebase.google.com/)
 
 # 参考
-追記途中...
+## Chrome Extension関係
+[Chromeの拡張機能を自作する　- 虎の穴開発室ブログ](https://toranoana-lab.hatenablog.com/entry/2020/04/23/174421)
+
+[Chrome拡張の開発方法まとめ その1：概念編 - Qiita](https://qiita.com/k7a/items/26d7a22233ecdf48fed8)
+
+[Chrome 拡張機能で Firebase を ... - Google Developers Japan](https://developers-jp.googleblog.com/2016/09/how-to-use-firebase-in-chrome-extension.html)
+
+## Firebase関係
+[FirebaseのRealtime Databaseでチャットアプリを作成｜ai ...](https://note.com/airis0/n/n807f2e7cabea)
+
+[Firebaseで1時間で簡単なWebチャットアプリが作れる ...](https://qiita.com/taketakekaho/items/52b7c196ddbd4cb3c968)
+
+
